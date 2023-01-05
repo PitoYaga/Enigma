@@ -15558,3 +15558,87 @@ Are you sure?
 [2023.01.04-23.59.18:181][789]LogEditorTransaction: Undo Move Elements
 [2023.01.04-23.59.18:522][809]Cmd: TRANSACTION UNDO
 [2023.01.04-23.59.18:522][809]LogEditorTransaction: Undo Clicking on Elements
+[2023.01.05-00.05.15:787][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.01.05-00.05.19:254][515]LogSlate: Window 'Save Content' being destroyed
+[2023.01.05-00.05.21:419][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.05-00.05.22:752][634]LogSlate: Window 'Save Content' being destroyed
+[2023.01.05-00.05.22:868][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/BP_Cube" FILE="../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/BP_Cube.uasset" SILENT=true
+[2023.01.05-00.05.24:585][634]LogSavePackage: Moving output files for package: /Game/Level_1/BP_Cube
+[2023.01.05-00.05.24:586][634]LogSavePackage: Moving '../../../../../Jam Projects/Enigma/Enigma/Saved/BP_Cube086366FA464B8CF762EEB98FA5EC4BF0.tmp' to '../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/BP_Cube.uasset'
+[2023.01.05-00.05.24:590][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/BP_Door" FILE="../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/BP_Door.uasset" SILENT=true
+[2023.01.05-00.05.24:853][634]LogSavePackage: Moving output files for package: /Game/Level_1/BP_Door
+[2023.01.05-00.05.24:854][634]LogSavePackage: Moving '../../../../../Jam Projects/Enigma/Enigma/Saved/BP_DoorA522D676477E41DE59D9BEADDC8F9A14.tmp' to '../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/BP_Door.uasset'
+[2023.01.05-00.05.24:875][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/BP_PlayerPawn_1" FILE="../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/BP_PlayerPawn_1.uasset" SILENT=true
+[2023.01.05-00.05.27:138][634]LogSavePackage: Moving output files for package: /Game/Level_1/BP_PlayerPawn_1
+[2023.01.05-00.05.27:140][634]LogSavePackage: Moving '../../../../../Jam Projects/Enigma/Enigma/Saved/BP_PlayerPawn_1BDCAEC9F42167E9CC596F0B46F5581D1.tmp' to '../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/BP_PlayerPawn_1.uasset'
+[2023.01.05-00.05.27:143][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Sounds/CubeTurn" FILE="../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Sounds/CubeTurn.uasset" SILENT=true
+[2023.01.05-00.05.27:150][634]LogSavePackage: Moving output files for package: /Game/Level_1/Sounds/CubeTurn
+[2023.01.05-00.05.27:150][634]LogSavePackage: Moving '../../../../../Jam Projects/Enigma/Enigma/Saved/CubeTurnE8260551454D93BD151E6F90BFF5C826.tmp' to '../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Sounds/CubeTurn.uasset'
+[2023.01.05-00.05.27:151][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Sounds/CubeTurn2" FILE="../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Sounds/CubeTurn2.uasset" SILENT=true
+[2023.01.05-00.05.27:156][634]LogSavePackage: Moving output files for package: /Game/Level_1/Sounds/CubeTurn2
+[2023.01.05-00.05.27:156][634]LogSavePackage: Moving '../../../../../Jam Projects/Enigma/Enigma/Saved/CubeTurn246950E9A4B116B898B09E883BB43190F.tmp' to '../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Sounds/CubeTurn2.uasset'
+[2023.01.05-00.05.27:157][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Assets/enigma" FILE="../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Assets/enigma.uasset" SILENT=true
+[2023.01.05-00.05.27:275][634]LogSavePackage: Moving output files for package: /Game/Level_1/Assets/enigma
+[2023.01.05-00.05.27:275][634]LogSavePackage: Moving '../../../../../Jam Projects/Enigma/Enigma/Saved/enigma40B174F14DD70749B5C086B66F11751B.tmp' to '../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Assets/enigma.uasset'
+[2023.01.05-00.05.27:277][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Level_1" FILE="../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.05-00.05.27:307][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.05-00.05.28:770][634]LogSavePackage: Moving output files for package: /Game/Level_1/Level_1
+[2023.01.05-00.05.28:771][634]LogSavePackage: Moving '../../../../../Jam Projects/Enigma/Enigma/Saved/Level_18C3DB04E42379F08FBEEC584B7CC81AD.tmp' to '../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Level_1.umap'
+[2023.01.05-00.05.28:795][634]LogFileHelpers: Saving map 'Level_1' took 1.520
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: ================================================
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Total job queries 1060, among them cache hits 572 (53.96%)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Tracking 436 distinct input hashes that result in 131 distinct outputs (30.05%)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: RAM used: 0.34 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Shaders Compiled: 132
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Jobs assigned 436, completed 436 (100.00%)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Average time worker was idle: 185.40 s
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Time job spent in pending queue: average 0.35 s, longest 5.02 s
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Job execution time: average 1.17 s, max 4.27 s
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Job life time (pending + execution): average 1.52 s, max 5.84
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 97.02 s
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Jobs were issued in 416 batches (only local compilation was used), average 1.05 jobs/batch
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Average processing rate: 4.49 jobs/sec
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Effective parallelization: 3.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   18 times, average 0.98 sec, max 1.16 sec, min 0.80 sec)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   18 times, average 0.96 sec, max 1.15 sec, min 0.73 sec)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled   18 times, average 0.95 sec, max 1.13 sec, min 0.78 sec)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   18 times, average 0.95 sec, max 1.15 sec, min 0.78 sec)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled   18 times, average 0.94 sec, max 1.10 sec, min 0.77 sec)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.62% of total time (compiled   55 times, average 0.87 sec, max 2.35 sec, min 0.67 sec)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.53% of total time (compiled   55 times, average 0.81 sec, max 2.33 sec, min 0.56 sec)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.91% of total time (compiled   50 times, average 0.78 sec, max 1.04 sec, min 0.61 sec)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.37% of total time (compiled   18 times, average 0.98 sec, max 1.16 sec, min 0.80 sec)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.26% of total time (compiled   18 times, average 0.96 sec, max 1.15 sec, min 0.73 sec)
+[2023.01.05-00.05.28:811][634]LogShaderCompilers: Display: ================================================
+[2023.01.05-00.05.28:830][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Assets/Material" FILE="../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Assets/Material.uasset" SILENT=true
+[2023.01.05-00.05.28:848][634]LogSavePackage: Moving output files for package: /Game/Level_1/Assets/Material
+[2023.01.05-00.05.28:848][634]LogSavePackage: Moving '../../../../../Jam Projects/Enigma/Enigma/Saved/Material8D9A325341735BB8C3C4399BA8A1070A.tmp' to '../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Assets/Material.uasset'
+[2023.01.05-00.05.28:850][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Sounds/putdown" FILE="../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Sounds/putdown.uasset" SILENT=true
+[2023.01.05-00.05.28:855][634]LogSavePackage: Moving output files for package: /Game/Level_1/Sounds/putdown
+[2023.01.05-00.05.28:855][634]LogSavePackage: Moving '../../../../../Jam Projects/Enigma/Enigma/Saved/putdown3DCC40EB4BC2CBDB473BBB812BAF6C50.tmp' to '../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Sounds/putdown.uasset'
+[2023.01.05-00.05.28:857][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Materials/WhiteEmissionn" FILE="../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Materials/WhiteEmissionn.uasset" SILENT=true
+[2023.01.05-00.05.28:861][634]LogSavePackage: Moving output files for package: /Game/Level_1/Materials/WhiteEmissionn
+[2023.01.05-00.05.28:862][634]LogSavePackage: Moving '../../../../../Jam Projects/Enigma/Enigma/Saved/WhiteEmissionn126FA8374590608E2770EC91BEB70AEF.tmp' to '../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Materials/WhiteEmissionn.uasset'
+[2023.01.05-00.05.28:881][634]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.05-00.05.28:881][634]LogContentValidation: Display: Validating Blueprint /Game/Level_1/BP_PlayerPawn_1.BP_PlayerPawn_1
+[2023.01.05-00.05.28:881][634]LogContentValidation: Display: Validating Blueprint /Game/Level_1/BP_Cube.BP_Cube
+[2023.01.05-00.05.28:881][634]LogContentValidation: Display: Validating SoundWave /Game/Level_1/Sounds/putdown.putdown
+[2023.01.05-00.05.28:882][634]LogContentValidation: Display: Validating SoundWave /Game/Level_1/Sounds/CubeTurn.CubeTurn
+[2023.01.05-00.05.28:882][634]LogContentValidation: Display: Validating SoundWave /Game/Level_1/Sounds/CubeTurn2.CubeTurn2
+[2023.01.05-00.05.28:882][634]LogContentValidation: Display: Validating Material /Game/Level_1/Materials/WhiteEmissionn.WhiteEmissionn
+[2023.01.05-00.05.28:882][634]LogContentValidation: Display: Validating StaticMesh /Game/Level_1/Assets/enigma.enigma
+[2023.01.05-00.05.28:882][634]LogContentValidation: Display: Validating World /Game/Level_1/Level_1.Level_1
+[2023.01.05-00.05.28:882][634]LogContentValidation: Display: Validating Material /Game/Level_1/Assets/Material.Material
+[2023.01.05-00.05.28:882][634]LogContentValidation: Display: Validating Blueprint /Game/Level_1/BP_Door.BP_Door
+[2023.01.05-00.05.29:362][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_1/Level_1" FILE="../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.05-00.05.29:394][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.05-00.05.30:848][652]LogSavePackage: Moving output files for package: /Game/Level_1/Level_1
+[2023.01.05-00.05.30:850][652]LogSavePackage: Moving '../../../../../Jam Projects/Enigma/Enigma/Saved/Level_1341EE6DC49E40729CD8768A3389F45EF.tmp' to '../../../../../Jam Projects/Enigma/Enigma/Content/Level_1/Level_1.umap'
+[2023.01.05-00.05.30:886][652]AssetCheck: New page: Asset Save: Level_1
+[2023.01.05-00.05.30:886][652]LogContentValidation: Display: Validating World /Game/Level_1/Level_1.Level_1
+[2023.01.05-00.05.33:198][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.05-00.05.35:118][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms

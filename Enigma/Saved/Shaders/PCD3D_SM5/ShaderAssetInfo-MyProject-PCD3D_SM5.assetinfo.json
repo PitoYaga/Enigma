@@ -122,12 +122,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F64C5788D85ADF654FD16AEBA3E30101B7CE760D",
-			"Assets": [
-				"/Game/Level_3/NewEmiision"
-			]
-		},
-		{
 			"ShaderMapHash": "3FDEE9D3A735338491B3F8EBE04D430D2E2E7CA3",
 			"Assets": [
 				"/Game/Level_1/Materials/WhiteEmissionn"
@@ -276,31 +270,31 @@
 		{
 			"ShaderMapHash": "CEAFBD6B597AB505CF7710ED05E546F1F23EF367",
 			"Assets": [
-				"/Game/Level_2/Asset/Material/seamless-hand-painted-texture-experiments-v0-shrm9g706x8a1_Mat"
+				"/Game/Level_2/Asset/Material/RustedMetal"
 			]
 		},
 		{
 			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
 			"Assets": [
-				"/Game/Level_2/Asset/Material/istockphoto-527660774-612x612_Mat",
-				"/Game/Level_2/Asset/Material/alex-downham-low-poly-crate-diffuse_Mat",
+				"/Game/Level_2/Asset/Material/Sign",
+				"/Game/Level_2/Asset/Material/Case",
 				"/Game/Level_1/Assets/MaterialWall"
 			]
 		},
 		{
 			"ShaderMapHash": "00DCC506A2DAF3A722941B6DE8E5310F61178F39",
 			"Assets": [
-				"/Game/Level_2/Asset/Material/hand-painted-wood-planks-texture-3d-model-low-poly_Mat"
+				"/Game/Level_2/Asset/Material/Wood"
 			]
 		},
 		{
 			"ShaderMapHash": "C00BE71C53AFD9FD7B5E36F8CB47D83A35897620",
 			"Assets": [
-				"/Game/Level_2/Asset/Material/7d31308cf513eb9425e8edefb515ab56_Mat"
+				"/Game/Level_2/Asset/Material/Metal"
 			]
 		},
 		{
-			"ShaderMapHash": "C347DB4512FADF3751607C2F4CE2FB649F3F774F",
+			"ShaderMapHash": "6DB98C6B14577ABE2F0356286ED29604A685B163",
 			"Assets": [
 				"/Game/Level_1/Materials/M_CubeWall"
 			]
@@ -312,19 +306,13 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5D2D30DC139B94839A326712DB00C00D96999176",
-			"Assets": [
-				"/Game/Level_1/Materials/M_Kabartma"
-			]
-		},
-		{
 			"ShaderMapHash": "039EF81EC2154245BC5C68B0BAD97A4F00AB1DD2",
 			"Assets": [
 				"/Game/Level_1/Assets/tik_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "1735EC95B1DC4539B1A191BBC73747FB34BB5635",
+			"ShaderMapHash": "4499DBFBA08745B0E9D2FDAF1E7BF05190593240",
 			"Assets": [
 				"/Game/Level_1/Assets/carpı_Mat"
 			]

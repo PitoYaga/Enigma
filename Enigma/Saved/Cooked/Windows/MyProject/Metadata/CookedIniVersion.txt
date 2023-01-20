@@ -323,6 +323,7 @@ Engine:/Script/Engine.Engine:DurationOfErrorsAndWarningsOnHUD:0=0
 Engine:/Script/Engine.Engine:NearClipPlane:0=10.0
 Engine:/Script/Engine.Engine:ActiveGameNameRedirects:0=(OldGameName="TP_FirstPersonBP",NewGameName="/Script/MyProject")
 Engine:/Script/Engine.Engine:ActiveGameNameRedirects:1=(OldGameName="/Script/TP_FirstPersonBP",NewGameName="/Script/MyProject")
+Engine:/Script/Engine.Engine:SubtitleFontName:0=/Game/UI/Font/Polygon-Regular_Font.Polygon-Regular_Font
 Engine:CoreUObject.Metadata:MetadataRedirects:0=(OldKey="K2Protected", NewKey="BlueprintProtected")
 Engine:CoreUObject.Metadata:MetadataRedirects:1=(OldKey="K2UnsafeForConstructionScripts", NewKey="UnsafeDuringActorConstruction")
 Engine:CoreUObject.Metadata:MetadataRedirects:2=(OldKey="KismetType", NewKey="BlueprintType")

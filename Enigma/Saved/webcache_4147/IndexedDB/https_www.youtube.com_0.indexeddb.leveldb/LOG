@@ -1,0 +1,5 @@
+2023/02/28-16:24:25.507 17c0 Reusing MANIFEST D:/Jam Projects/Enigma/Enigma/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/28-16:35:44.654 6570 Level-0 table #5: started
+2023/02/28-16:35:44.661 6570 Level-0 table #5: 8273 bytes OK
+2023/02/28-16:35:44.664 6570 Delete type=0 #3
+2023/02/28-16:35:44.666 6570 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

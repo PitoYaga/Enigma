@@ -833,3 +833,212 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.09-11.47.12:407][515]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/panelB305B5564DD4BEE9800998B949D5D2AD.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/panel.uasset'
 [2023.03.09-11.47.12:457][515]AssetCheck: New page: Asset Save: panel
 [2023.03.09-11.47.12:457][515]LogContentValidation: Display: Validating StaticMesh /Game/Models/panel.panel
+[2023.03.09-11.48.06:465][991]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Efe Canoglu\Desktop\yldz_uv.fbx)
+[2023.03.09-11.48.06:488][991]LogFbx: Loading FBX Scene from C:\Users\Efe Canoglu\Desktop\yldz_uv.fbx
+[2023.03.09-11.48.06:493][991]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.09-11.48.08:357][991]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.09-11.48.08:422][991]LogMaterial: Display: Missing cached shadermap for Material_008 in PCD3D_SM5, Default, SM5 (DDC key hash: E27A6F83AC498C949E5EDC467EF2F14070BBB604), compiling. 
+[2023.03.09-11.48.08:433][991]LogMaterial: Display: Missing cached shadermap for Material_009 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F9E7D1B91F31209C2E382AD496F99B240937A3B), compiling. 
+[2023.03.09-11.48.08:435][991]LogFbx: Display: Triangulating static mesh Plane
+[2023.03.09-11.48.08:442][991]LogStaticMesh: Display: Building static mesh yldz_uv...
+[2023.03.09-11.48.08:449][991]LogStaticMesh: Built static mesh [0.01s] /Game/Models/yldz_uv.yldz_uv
+[2023.03.09-11.48.08:457][991]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.09-11.48.08:544][991]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Efe Canoglu\Desktop\silindir.fbx)
+[2023.03.09-11.48.08:555][991]LogFbx: Loading FBX Scene from C:\Users\Efe Canoglu\Desktop\silindir.fbx
+[2023.03.09-11.48.08:560][991]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.09-11.48.08:569][991]LogMaterial: Display: Missing cached shadermap for Material_007 in PCD3D_SM5, Default, SM5 (DDC key hash: 0F789FF1E09E5A20D497B10B4377DF663E65C848), compiling. 
+[2023.03.09-11.48.08:576][991]LogMaterial: Display: Missing cached shadermap for Material_005 in PCD3D_SM5, Default, SM5 (DDC key hash: 668269A0893D79D6AFDA1FC6F9509AA110EA5857), compiling. 
+[2023.03.09-11.48.08:585][991]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: CCBCD0C714E7060B02841BB2C5B6DDFAE85F13B0), compiling. 
+[2023.03.09-11.48.08:587][991]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2023.03.09-11.48.08:603][991]LogStaticMesh: Display: Building static mesh silindir...
+[2023.03.09-11.48.08:622][991]LogStaticMesh: Built static mesh [0.02s] /Game/Models/silindir.silindir
+[2023.03.09-11.48.08:633][991]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.09-11.48.08:662][991]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Efe Canoglu\Desktop\altgen_uv.fbx)
+[2023.03.09-11.48.08:671][991]LogFbx: Loading FBX Scene from C:\Users\Efe Canoglu\Desktop\altgen_uv.fbx
+[2023.03.09-11.48.08:676][991]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.09-11.48.08:686][991]LogMaterial: Display: Missing cached shadermap for Material_013 in PCD3D_SM5, Default, SM5 (DDC key hash: 826CA8A5452398F114F481A665C1A270FCB1B7D4), compiling. 
+[2023.03.09-11.48.08:695][991]LogMaterial: Display: Missing cached shadermap for Material_012 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F1838C0FF4CC85E8C4660ECFD56685FC48EFF6F), compiling. 
+[2023.03.09-11.48.08:703][991]LogMaterial: Display: Missing cached shadermap for Material_014 in PCD3D_SM5, Default, SM5 (DDC key hash: BFF3439AAF7EEFA61D376825909E9B69B744D185), compiling. 
+[2023.03.09-11.48.08:712][991]LogMaterial: Display: Missing cached shadermap for Material_011 in PCD3D_SM5, Default, SM5 (DDC key hash: 98CC4C585A481CBC0CF66195D436C53CF7DEDE38), compiling. 
+[2023.03.09-11.48.08:722][991]LogMaterial: Display: Missing cached shadermap for Material_010 in PCD3D_SM5, Default, SM5 (DDC key hash: 42BFD43B9719713F194DB0E3AA785183060EAD63), compiling. 
+[2023.03.09-11.48.08:726][991]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2023.03.09-11.48.08:733][991]LogStaticMesh: Display: Building static mesh altgen_uv...
+[2023.03.09-11.48.08:746][991]LogStaticMesh: Built static mesh [0.01s] /Game/Models/altgen_uv.altgen_uv
+[2023.03.09-11.48.08:754][991]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.09-11.48.08:845][991]LogStaticMesh: Display: Building static mesh altgen_uv...
+[2023.03.09-11.48.08:845][991]LogStaticMesh: Built static mesh [0.01s] /Game/Models/altgen_uv.altgen_uv
+[2023.03.09-11.48.08:845][991]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Efe Canoglu\Desktop\kare.fbx)
+[2023.03.09-11.48.08:869][991]LogFbx: Loading FBX Scene from C:\Users\Efe Canoglu\Desktop\kare.fbx
+[2023.03.09-11.48.08:874][991]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.09-11.48.08:883][991]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.03.09-11.48.08:889][991]LogStaticMesh: Display: Building static mesh kare...
+[2023.03.09-11.48.08:895][991]LogStaticMesh: Built static mesh [0.01s] /Game/Models/kare.kare
+[2023.03.09-11.48.08:903][991]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.09-11.48.08:936][991]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Efe Canoglu\Desktop\yarm_daire_uv.fbx)
+[2023.03.09-11.48.08:944][991]LogFbx: Loading FBX Scene from C:\Users\Efe Canoglu\Desktop\yarm_daire_uv.fbx
+[2023.03.09-11.48.08:949][991]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.09-11.48.08:956][991]LogFbx: Display: Triangulating static mesh Sphere
+[2023.03.09-11.48.08:982][991]LogStaticMesh: Display: Building static mesh yarm_daire_uv...
+[2023.03.09-11.48.09:000][991]LogStaticMesh: Built static mesh [0.02s] /Game/Models/yarm_daire_uv.yarm_daire_uv
+[2023.03.09-11.48.09:013][991]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.09-11.48.09:041][991]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Efe Canoglu\Desktop\ucgen.fbx)
+[2023.03.09-11.48.09:050][991]LogFbx: Loading FBX Scene from C:\Users\Efe Canoglu\Desktop\ucgen.fbx
+[2023.03.09-11.48.09:055][991]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.09-11.48.09:063][991]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.03.09-11.48.09:076][991]LogStaticMesh: Display: Building static mesh ucgen...
+[2023.03.09-11.48.09:098][991]LogStaticMesh: Built static mesh [0.02s] /Game/Models/ucgen.ucgen
+[2023.03.09-11.48.09:107][991]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.09-11.48.11:711][ 60]LogSlate: Window 'Message Log' being destroyed
+[2023.03.09-11.48.11:765][ 60]LogSlate: Window 'Message Log' being destroyed
+[2023.03.09-11.48.14:777][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.03.09-11.48.16:233][135]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.09-11.48.16:301][135]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Models/Material_008.Material_008
+	Asset Type: Material
+	Asset Name: /Game/Models/Material_009.Material_009
+	Asset Type: Material
+[2023.03.09-11.48.16:526][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.09-11.48.16:536][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.03.09-11.48.16:545][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.09-11.48.29:631][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.09-11.48.31:399][614]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.09-11.48.31:449][614]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Models/Material_007.Material_007
+	Asset Type: Material
+	Asset Name: /Game/Models/Material_006.Material_006
+	Asset Type: Material
+	Asset Name: /Game/Models/Material_005.Material_005
+	Asset Type: Material
+	Asset Name: /Game/Models/Material_013.Material_013
+	Asset Type: Material
+	Asset Name: /Game/Models/Material_012.Material_012
+	Asset Type: Material
+	Asset Name: /Game/Models/Material_014.Material_014
+	Asset Type: Material
+	Asset Name: /Game/Models/Material_011.Material_011
+	Asset Type: Material
+	Asset Name: /Game/Models/Material_010.Material_010
+	Asset Type: Material
+[2023.03.09-11.48.31:682][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.09-11.48.31:689][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.09-11.48.31:697][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.09-11.48.36:640][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.03.09-11.48.36:668][792]LogSavePackage: Moving output files for package: /Game/UI/Levels/MainMenu
+[2023.03.09-11.48.36:668][792]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/MainMenuD98F50AA474CD0E5EA649F91EAE24556.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/UI/Levels/MainMenu.umap'
+[2023.03.09-11.48.36:708][792]AssetCheck: New page: Asset Save: MainMenu
+[2023.03.09-11.48.36:708][792]LogContentValidation: Display: Validating World /Game/UI/Levels/MainMenu.MainMenu
+[2023.03.09-11.48.51:520][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.09-11.48.55:669][990]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-11.48.55:923][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/altgen_uv" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/altgen_uv.uasset" SILENT=true
+[2023.03.09-11.48.55:926][990]LogSavePackage: Moving output files for package: /Game/Models/altgen_uv
+[2023.03.09-11.48.55:926][990]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/altgen_uv3B62485340729B53C9CF78BA23B88E94.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/altgen_uv.uasset'
+[2023.03.09-11.48.55:966][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Door" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Door.uasset" SILENT=true
+[2023.03.09-11.48.55:971][990]LogSavePackage: Moving output files for package: /Game/Models/Door
+[2023.03.09-11.48.55:972][990]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/DoorC516678E4BECC7E68160A0A7A5FC484E.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Door.uasset'
+[2023.03.09-11.48.56:007][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/kare" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/kare.uasset" SILENT=true
+[2023.03.09-11.48.56:010][990]LogSavePackage: Moving output files for package: /Game/Models/kare
+[2023.03.09-11.48.56:010][990]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/kareDC2C6CF54EA208CEC11ACC974663131A.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/kare.uasset'
+[2023.03.09-11.48.56:044][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/silindir" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/silindir.uasset" SILENT=true
+[2023.03.09-11.48.56:049][990]LogSavePackage: Moving output files for package: /Game/Models/silindir
+[2023.03.09-11.48.56:049][990]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/silindir9F3B7A57442AACBBE161858AAF33DB57.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/silindir.uasset'
+[2023.03.09-11.48.56:083][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ucgen" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/ucgen.uasset" SILENT=true
+[2023.03.09-11.48.56:087][990]LogSavePackage: Moving output files for package: /Game/Models/ucgen
+[2023.03.09-11.48.56:087][990]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/ucgenAC2090BC4DA573D512C710A01390E855.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/ucgen.uasset'
+[2023.03.09-11.48.56:121][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/yarm_daire_uv" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/yarm_daire_uv.uasset" SILENT=true
+[2023.03.09-11.48.56:125][990]LogSavePackage: Moving output files for package: /Game/Models/yarm_daire_uv
+[2023.03.09-11.48.56:125][990]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/yarm_daire_uvE14316314A7919F67ABB00824CB1E43E.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/yarm_daire_uv.uasset'
+[2023.03.09-11.48.56:160][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/yldz_uv" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/yldz_uv.uasset" SILENT=true
+[2023.03.09-11.48.56:163][990]LogSavePackage: Moving output files for package: /Game/Models/yldz_uv
+[2023.03.09-11.48.56:163][990]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/yldz_uv8E2BABAB495A91B6D61031AF2AED4503.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/yldz_uv.uasset'
+[2023.03.09-11.48.56:191][990]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.09-11.48.56:191][990]LogContentValidation: Display: Validating StaticMesh /Game/Models/ucgen.ucgen
+[2023.03.09-11.48.56:191][990]LogContentValidation: Display: Validating StaticMesh /Game/Models/yarm_daire_uv.yarm_daire_uv
+[2023.03.09-11.48.56:191][990]LogContentValidation: Display: Validating StaticMesh /Game/Models/silindir.silindir
+[2023.03.09-11.48.56:191][990]LogContentValidation: Display: Validating StaticMesh /Game/Models/Door.Door
+[2023.03.09-11.48.56:191][990]LogContentValidation: Display: Validating StaticMesh /Game/Models/kare.kare
+[2023.03.09-11.48.56:191][990]LogContentValidation: Display: Validating StaticMesh /Game/Models/altgen_uv.altgen_uv
+[2023.03.09-11.48.56:191][990]LogContentValidation: Display: Validating StaticMesh /Game/Models/yldz_uv.yldz_uv
+[2023.03.09-11.48.57:691][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.03.09-11.48.57:709][ 68]LogSavePackage: Moving output files for package: /Game/UI/Levels/MainMenu
+[2023.03.09-11.48.57:710][ 68]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/MainMenu1AED2784442F7383C7BFD0A41381B2E4.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/UI/Levels/MainMenu.umap'
+[2023.03.09-11.48.57:751][ 68]AssetCheck: New page: Asset Save: MainMenu
+[2023.03.09-11.48.57:751][ 68]LogContentValidation: Display: Validating World /Game/UI/Levels/MainMenu.MainMenu
+[2023.03.09-11.49.09:598][269]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.09-11.49.09:599][269]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.09-11.49.21:161][704]LogContentBrowser: Attempting asset rename: altgen_uv -> Button_Hex
+[2023.03.09-11.49.21:281][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Button_Hex" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Hex.uasset" SILENT=true
+[2023.03.09-11.49.21:284][704]LogSavePackage: Moving output files for package: /Game/Models/Button_Hex
+[2023.03.09-11.49.21:285][704]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/Button_HexF97FBEAD4E2C94A3B502458203D58254.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Hex.uasset'
+[2023.03.09-11.49.21:346][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.09-11.49.21:354][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.09-11.49.21:361][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.09-11.49.21:364][704]AssetCheck: New page: Asset Save: Button_Hex
+[2023.03.09-11.49.21:364][704]LogContentValidation: Display: Validating StaticMesh /Game/Models/Button_Hex.Button_Hex
+[2023.03.09-11.49.30:830][116]LogContentBrowser: Attempting asset rename: kare -> Button_Cube
+[2023.03.09-11.49.30:931][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Button_Cube" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Cube.uasset" SILENT=true
+[2023.03.09-11.49.30:934][116]LogSavePackage: Moving output files for package: /Game/Models/Button_Cube
+[2023.03.09-11.49.30:934][116]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/Button_CubeE811FA1F4AA2403652572DB8C5461D62.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Cube.uasset'
+[2023.03.09-11.49.30:999][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.09-11.49.31:008][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.09-11.49.31:015][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.09-11.49.31:018][116]AssetCheck: New page: Asset Save: Button_Cube
+[2023.03.09-11.49.31:018][116]LogContentValidation: Display: Validating StaticMesh /Game/Models/Button_Cube.Button_Cube
+[2023.03.09-11.49.40:797][548]LogContentBrowser: Attempting asset rename: silindir -> Button_Cylindir
+[2023.03.09-11.49.40:917][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Button_Cylindir" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Cylindir.uasset" SILENT=true
+[2023.03.09-11.49.40:920][548]LogSavePackage: Moving output files for package: /Game/Models/Button_Cylindir
+[2023.03.09-11.49.40:920][548]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/Button_CylindirA4AFF83F4BA4F1B7B17068BEB51A8D1C.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Cylindir.uasset'
+[2023.03.09-11.49.40:984][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.09-11.49.40:993][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.09-11.49.41:001][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.03.09-11.49.41:005][548]AssetCheck: New page: Asset Save: Button_Cylindir
+[2023.03.09-11.49.41:005][548]LogContentValidation: Display: Validating StaticMesh /Game/Models/Button_Cylindir.Button_Cylindir
+[2023.03.09-11.49.43:966][652]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.09-11.49.43:966][652]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.09-11.49.50:811][979]LogContentBrowser: Attempting asset rename: yarm_daire_uv -> Button_Sphere
+[2023.03.09-11.49.50:917][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Button_Sphere" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Sphere.uasset" SILENT=true
+[2023.03.09-11.49.50:921][979]LogSavePackage: Moving output files for package: /Game/Models/Button_Sphere
+[2023.03.09-11.49.50:921][979]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/Button_Sphere14D133354F2C2FB76AC268B6F0C1A598.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Sphere.uasset'
+[2023.03.09-11.49.50:984][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.09-11.49.50:993][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.09-11.49.51:002][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.09-11.49.51:005][979]AssetCheck: New page: Asset Save: Button_Sphere
+[2023.03.09-11.49.51:005][979]LogContentValidation: Display: Validating StaticMesh /Game/Models/Button_Sphere.Button_Sphere
+[2023.03.09-11.49.59:409][353]LogContentBrowser: Attempting asset rename: yldz_uv -> Button_Star
+[2023.03.09-11.49.59:529][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Button_Star" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Star.uasset" SILENT=true
+[2023.03.09-11.49.59:532][353]LogSavePackage: Moving output files for package: /Game/Models/Button_Star
+[2023.03.09-11.49.59:533][353]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/Button_Star2B565F3C454D5916FC4223B02955DEC7.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Star.uasset'
+[2023.03.09-11.49.59:596][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.09-11.49.59:605][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.09-11.49.59:614][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.09-11.49.59:618][353]AssetCheck: New page: Asset Save: Button_Star
+[2023.03.09-11.49.59:618][353]LogContentValidation: Display: Validating StaticMesh /Game/Models/Button_Star.Button_Star
+[2023.03.09-11.50.06:793][645]LogContentBrowser: Attempting asset rename: panel -> Panel
+[2023.03.09-11.50.06:827][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.09-11.50.06:835][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.03.09-11.50.06:843][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.09-11.50.06:855][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.03.09-11.50.06:863][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.09-11.50.06:870][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.03.09-11.50.09:649][746]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.09-11.50.09:649][746]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.03.09-11.50.17:136][108]LogContentBrowser: Attempting asset rename: ucgen -> Button_Triangle
+[2023.03.09-11.50.17:256][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Button_Triangle" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Triangle.uasset" SILENT=true
+[2023.03.09-11.50.17:260][108]LogSavePackage: Moving output files for package: /Game/Models/Button_Triangle
+[2023.03.09-11.50.17:260][108]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/Button_TriangleEA2F53A2464AF1F981FEBB976538011A.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Triangle.uasset'
+[2023.03.09-11.50.17:322][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.09-11.50.17:331][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.09-11.50.17:338][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.09-11.50.17:342][108]AssetCheck: New page: Asset Save: Button_Triangle
+[2023.03.09-11.50.17:342][108]LogContentValidation: Display: Validating StaticMesh /Game/Models/Button_Triangle.Button_Triangle
+[2023.03.09-11.50.18:748][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Button_Triangle" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Triangle.uasset" SILENT=true
+[2023.03.09-11.50.18:752][186]LogSavePackage: Moving output files for package: /Game/Models/Button_Triangle
+[2023.03.09-11.50.18:753][186]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/Button_Triangle4D58F06D41EF67F6A3CB75B31991829D.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Button_Triangle.uasset'
+[2023.03.09-11.50.18:806][186]AssetCheck: New page: Asset Save: Button_Triangle
+[2023.03.09-11.50.18:806][186]LogContentValidation: Display: Validating StaticMesh /Game/Models/Button_Triangle.Button_Triangle
+[2023.03.09-11.50.20:764][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.09-11.50.22:603][288]LogSlate: Window 'Save Content' being destroyed
+[2023.03.09-11.50.22:713][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Panel" FILE="../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Panel.uasset" SILENT=true
+[2023.03.09-11.50.22:717][288]LogSavePackage: Moving output files for package: /Game/Models/Panel
+[2023.03.09-11.50.22:717][288]LogSavePackage: Moving '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Saved/Panel72794BF146096A1DF965EB8FFB1CCFC9.tmp' to '../../../../../../Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Models/Panel.uasset'
+[2023.03.09-11.50.22:768][288]AssetCheck: New page: Asset Save: Panel
+[2023.03.09-11.50.22:768][288]LogContentValidation: Display: Validating StaticMesh /Game/Models/Panel.Panel

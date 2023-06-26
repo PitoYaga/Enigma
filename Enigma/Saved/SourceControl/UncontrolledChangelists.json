@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Level_1/BP_Door.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Level_3/Level_3.umap",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Level_1/Level_1.umap",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Level_3/GM_GameMode_2.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/UI/Wigdet/W_ToBeContinue.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/UI/Wigdet/W_WrongDoor.uasset",
+				"C:/Users/Efe Canoglu/Desktop/Dersler/2.1/FinalProject/Enigma/Enigma/Content/Level_3/BP_Button.uasset"
+			]
+		}
+	]
+}
